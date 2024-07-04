@@ -8,8 +8,6 @@ import "./assets/img/4geeks.ico";
 const excuse = document.getElementById("excuse");
 
 window.onload = function() {
-  //write your code here
-
   excuse.innerHTML = generateExcuse();
 };
 
